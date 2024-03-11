@@ -9,7 +9,7 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "author": "jeff",
+  "author": "albert",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",

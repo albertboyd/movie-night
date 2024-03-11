@@ -101,7 +101,7 @@ function Footer({}: Props) {
           </li>
           <li className="my-1 md:mr-4 hover:underline cursor-pointer text-xs font-medium">
             {" "}
-            <a href="https://www.linkedin.com/in/jeffjiang13/">
+            <a href="https://www.linkedin.com/in/albert-james-boyd/">
               Contact Us
             </a>{" "}
           </li>
@@ -122,7 +122,7 @@ function Footer({}: Props) {
       </div>
 
       <div className="h-8 py-1 text-white text-center bg-[#000000]">
-        Created by Jeff Jiang, all rights reserved
+        Created by Albert Boyd, all rights reserved
       </div>
     </div>
   );

@@ -10,15 +10,15 @@ Full Stack Movie Application with NEXT.JS 13!(Next.js 13, mongodb, node js, Next
 
 <!-- Badges -->
 
-<a href="https://jj-movie-night.vercel.app/" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
+<a href="https://albert-movie-night.vercel.app/" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
 ![](https://img.shields.io/badge/Maintained-Yes-indigo)
-![](https://img.shields.io/github/forks/jeffjiang13/movie-night.svg)
-![](https://img.shields.io/github/stars/jeffjiang13/movie-night.svg)
-![](https://img.shields.io/github/issues/jeffjiang13/movie-night)
-![](https://img.shields.io/github/last-commit/jeffjiang13/movie-night)
+![](https://img.shields.io/github/forks/albertboyd/movie-night.svg)
+![](https://img.shields.io/github/stars/albertboyd/movie-night.svg)
+![](https://img.shields.io/github/issues/albertboyd/movie-night)
+![](https://img.shields.io/github/last-commit/albertboyd/movie-night)
 
 <h4>
-    <a href="https://jj-movie-night.vercel.app/">View Demo</a>
+    <a href="https://albert-movie-night.vercel.app/">View Demo</a>
 </h4>
 </div>
 
@@ -45,7 +45,7 @@ Full Stack Movie Application with NEXT.JS 13!(Next.js 13, mongodb, node js, Next
 
 
 
-## <a href="https://jj-movie-night.vercel.app/" target="_blank">LIVE DEMO 💥</a>
+## <a href="https://albert-movie-night.vercel.app/" target="_blank">LIVE DEMO 💥</a>
 
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 ![forthebadge](https://forthebadge.com/images/badges/for-you.svg)
