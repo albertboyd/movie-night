@@ -22,7 +22,7 @@ export const authOption = {
     },
   },
 
-  secret: process.env.NEXT_PUBLIC_SECRET,
+  secret: process.env.AUTH_SECRET,
 };
 
 export default NextAuth(authOption);
